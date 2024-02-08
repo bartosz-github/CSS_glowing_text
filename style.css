@@ -18,11 +18,3 @@ body {
         text-shadow: 0 0 20px #fff, 0 0 30px #44D62C, 0 0 40px #44D62C, 0 0 50px #44D62C, 0 0 60px #44D62C, 0 0 70px #44D62C, 0 0 80px #44D62C;
       }
 }
-
-/*
-h1 {
-    background: -webkit-linear-gradient(#E0E722, #44D62C);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-  }
-*/
