@@ -1,11 +1,11 @@
 body {
-    background-color: rgb(109, 2, 64);
+    background-color: #16A085;
     font-family: cursive;
 }
 
 .glow {
     font-size: 80px;
-    /* color: linear-gradient(red, yellow); */
+    color: #E0E722;
     text-align: center;
     animation: glow 1s ease-in-out infinite alternate;
 }
@@ -19,8 +19,10 @@ body {
       }
 }
 
+/*
 h1 {
     background: -webkit-linear-gradient(#E0E722, #44D62C);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
+*/
