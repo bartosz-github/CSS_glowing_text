@@ -2,3 +2,10 @@ body {
     background-color: darkslategray;
     font-family: cursive;
 }
+
+.glow {
+    font-size: 80px;
+    color: #fff;
+    text-align: center;
+    animation: glow 1s ease-in-out infinite alternate;
+}
