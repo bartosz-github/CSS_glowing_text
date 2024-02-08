@@ -5,16 +5,16 @@ body {
 
 .glow {
     font-size: 80px;
-    color: rgb(109, 2, 64);
+    color: #E0E722;
     text-align: center;
     animation: glow 1s ease-in-out infinite alternate;
 }
 
 @-webkit-keyframes glow {
     from {
-        text-shadow: 0 9 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+        text-shadow: 0 0 10px #fff, 0 0 20px #E0E722, 0 0 30px #E0E722, 0 0 40px #E0E722, 0 0 50px #E0E722, 0 0 60px #E0E722, 0 0 70px #E0E722;
     }
     to {
-        text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+        text-shadow: 0 0 20px #fff, 0 0 30px #44D62C, 0 0 40px #44D62C, 0 0 50px #44D62C, 0 0 60px #44D62C, 0 0 70px #44D62C, 0 0 80px #44D62C;
       }
 }
